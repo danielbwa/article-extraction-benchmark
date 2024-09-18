@@ -2,3 +2,4 @@
 __pycache__/
 extractors/go_readability/go_readability_cli
 extractors/go_domdistiller/go_domdistiller_cli
+node_modules
